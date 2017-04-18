@@ -1,0 +1,7 @@
+require "modules/hotkey"
+require "modules/screens"
+require "modules/windows"
+require "modules/launch"
+require "modules/mouseHighlight"
+--require "modules/system"
+--require "modules/auto_reload"
